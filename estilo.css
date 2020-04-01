@@ -1,3 +1,8 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'FonteTexto';
+	src: url("fonts/Bubblegum.ttf");
+}
 .marcador {
 	background: #fe9d9d;
 	border: 1px solid #f94646;
@@ -11,6 +16,7 @@
 body {
 	background: #4B5320;
 	color: #FFFAF0;
+	font-family: 'FonteTexto', sans-serif;
 	
 }
 
